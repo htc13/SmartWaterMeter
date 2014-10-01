@@ -1,0 +1,9 @@
+.\uart_dma.o: uart_dma.c
+.\uart_dma.o: stm32f10x.h
+.\uart_dma.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\uart_dma.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\uart_dma.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\uart_dma.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\uart_dma.o: system_stm32f10x.h
+.\uart_dma.o: uart_dma.h
+.\uart_dma.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
